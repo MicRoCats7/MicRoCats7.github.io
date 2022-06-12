@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+* {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+body {
+  position: relative;
+}
+#ayam-taliwang {
+  width: 1740px;
+}
+h2 {
+  font-size: 70px;
+  position: absolute;
+  margin-top: -550px;
+  color: white;
+  margin-left: 430px;
+  text-shadow: 0 0 2px #000;
+}
+#vector-satu {
+  position: relative;
+  left: -780px;
+  top: -7px;
+}
+#sepat {
+  position: relative;
+  left: 50px;
+  top: 50px;
+  float: left;
+  border-radius: 10px;
+}
+#jdl-sepat {
+  position: relative;
+  font-size: 35px;
+  float: right;
+  margin-top: -280px;
+  left: -440px;
+}
+#p-sepat {
+  position: relative;
+  width: 618px;
+  right: -55%;
+  top: -370px;
+  margin-top: 150px;
+  font-size: 20px;
+  font-weight: 400px;
+}
+#img-singang {
+  position: relative;
+  left: -34px;
+  top: -450px;
+  float: right;
+  width: 800px;
+  border-radius: 10px;
+  margin-top: 300px;
+}
+#jdl-Singang {
+  position: relative;
+  top: -110px;
+  left: 150px;
+  font-size: 35px;
+}
+#p-singang {
+  position: relative;
+  width: 618px;
+  top: -90px;
+  left: 100px;
+  font-size: 20px;
+  font-weight: 400px;
+}
+#ellipse {
+  position: relative;
+  top: -40px;
+  left: -116px;
+}
+#img-ayam-bakar {
+  position: relative;
+  top: -780px;
+  left: 40px;
+  border-radius: 10px;
+  margin-top: 490px;
+}
+#jdl-ayam {
+  position: relative;
+  font-size: 35px;
+  left: -450px;
+  top: -280px;
+  float: right;
+}
+#p-ayam-bakar {
+  position: relative;
+  width: 597px;
+  font-size: 22px;
+  left: 4px;
+  top: -300px;
+  float: right;
+  margin-top: 90px;
+}
